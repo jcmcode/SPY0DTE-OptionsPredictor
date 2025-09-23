@@ -6,4 +6,8 @@ Using SPY 1 minute pricing data to assist in predict daily movement and optimal 
 Potential Libraries for SPY data:
 -alphavantage
 -polygon.io
+-tiingo
+-IEX cloud
+
+
 
