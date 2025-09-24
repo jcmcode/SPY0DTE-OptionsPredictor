@@ -9,10 +9,6 @@ Potential Libraries for SPY data:
 
 -polygon.io
 
--tiingo
-
--IEX cloud
-
 Using other data including technical indicators, volatility etc
 
 
