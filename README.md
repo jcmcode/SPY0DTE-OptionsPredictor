@@ -21,3 +21,6 @@ Determine intraday spy price movement and volatility - Predict sharp movements i
 Might use pytorch or another ML model to pick up trends and shifts in the market.
 
 use black-scholes/montecarlo to price options etc?
+
+
+libraries - numpy, pandas, yfinance ? 
